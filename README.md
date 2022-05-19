@@ -3,10 +3,7 @@
 These endpoints allow you to recommend price .
 
 ## POST
-`official client only` [/1/billing/start-trial.json](#post-1billingstart-trialjson) <br/>
-`official client only` [/1/billing/cancel-trial.json](#post-1billingcancel-trialjson) <br/>
-`official client only` [/1/billing/start-or-update-subscription.json](#post-1billingstart-or-update-subscriptionjson) <br/>
-`official client only` [/1/billing/cancel-subscription.json](#post-1billingcancel-subscriptionjson) <br/>
+ [/v1//v1/price]<br/>
 ___
 
 **Parameters**
