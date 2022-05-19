@@ -17,12 +17,9 @@ ___
 **Response**
 
 ```
-// Customer has no subscription
 {
     "price": 0
 }
-
-
 ```
 ___
 
