@@ -44,3 +44,21 @@ ___
     ├── start.sh              # running the docker
     └── test.sh               # testing the docker with sample request
 
+
+#### Running docker file
+
+After cloning the code, go the base path ./ (where DockerFile is located)
+
+```sh
+# Run the setup.sh, which builds the image
+$ bash setup.sh
+
+# Run the start.sh, which runs the image
+$ bash start.sh
+
+# Run the test.sh, which runs a sample curl request
+$ bash test.sh
+
+
+
+
