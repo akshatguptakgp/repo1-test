@@ -3,7 +3,7 @@
 These endpoints allow you to recommend price .
 
 ## POST
- [/v1//v1/price]<br/>
+ [/v1/price]<br/>
 ___
 
 **Parameters**
