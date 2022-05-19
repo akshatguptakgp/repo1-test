@@ -32,15 +32,15 @@ ___
 
     .
     ├── src                   # files for the main code
-    ├── log                    # folder for placing log files 
-    ├── data                    # Dataset for recommendation
-    ├── .env                    # env file for environment variables
-    ├── .gitignore               # ignoring files with certain extensions
-    ├── config.py                # configuration variables for the code
-    ├── DockerFile               # DockerFile to dockerize the code
-    ├── README.md                # README.md
-    ├── requirements.txt         # requirements file
-    ├── setup.sh                 # building the docker
-    ├── start.sh                # running the docker
-    └── test.sh                 # testing the docker with sample request
+    ├── log                   # folder for placing log files 
+    ├── data                  # Dataset for recommendation
+    ├── .env                  # env file for environment variables
+    ├── .gitignore            # ignoring files with certain extensions
+    ├── config.py             # configuration variables for the code
+    ├── DockerFile            # DockerFile to dockerize the code
+    ├── README.md             # README.md
+    ├── requirements.txt      # requirements file
+    ├── setup.sh              # building the docker
+    ├── start.sh              # running the docker
+    └── test.sh               # testing the docker with sample request
 
